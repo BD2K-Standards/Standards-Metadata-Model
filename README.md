@@ -1,3 +1,3 @@
 # Standards-Metadata-Model
 
-The BD2K SCC
+BD2K Standards Coordinating Center(BD2K SCC) 
