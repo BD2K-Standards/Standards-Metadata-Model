@@ -1,5 +1,6 @@
 # Standards-Metadata-Model
 
-BD2K Standards Coordinating Center(BD2K SCC) 
+Status**bold**: Ongoing
+Created By: BD2K SCC 
 
-Status: Ongoing
+The Standards Metadata Model is a set of core metadata elements selected to represent the indispensable properties of a standard. 
