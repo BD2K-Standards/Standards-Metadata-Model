@@ -5,7 +5,3 @@
 * **Discussion**: [BD2K SCC Community Forum](http://ec2-54-191-44-136.us-west-2.compute.amazonaws.com/forum "Community Forum")
 
 The Standards Metadata Model is a set of core metadata elements selected to represent the indispensable properties of a standard. 
-
-<table>
-<tr><td>test 1</td></tr>
-</table>
